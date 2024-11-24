@@ -1,0 +1,6 @@
+p=input('p=')
+p=list(p)
+p.sort()
+print(*p, sep='')
+p.sort(reverse=True)
+print(*p, sep='')

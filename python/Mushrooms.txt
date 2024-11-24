@@ -1,0 +1,11 @@
+Ivanov 10
+Petrov 17
+Ivanov 5
+Sokolov 12
+Petrov 7
+Petrov 2
+Sokolov 15
+Ivanov 14
+Ivanov 7
+Ivanov 9
+Petrov 13

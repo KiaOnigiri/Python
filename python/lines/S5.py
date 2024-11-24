@@ -1,0 +1,5 @@
+a=input()
+x=input()
+y=input()
+print(a.replace(x,y))
+print(a.count(x))
